@@ -3,4 +3,4 @@
 2) Get a free API key from: https://openweathermap.org/api
 3) Add them to your .env file
 4) Open your terminal and run `pip install discord python-dotenv`
-5) Run the file, and bot should be online
+5) Run the Python file, and bot should be online
